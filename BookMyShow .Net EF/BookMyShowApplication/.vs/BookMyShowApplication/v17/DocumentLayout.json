@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\bookmyshowapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|solutionrelative:bookmyshowapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9524F880-ABCC-483E-8E35-0571E1BEA904}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\dataaccesslayer\\adminrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9524F880-ABCC-483E-8E35-0571E1BEA904}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\adminrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\bookmyshowapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|solutionrelative:bookmyshowapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F430B97F-D6FA-453B-B59F-30AC6A62B7AA}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\servicelayer\\authsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F430B97F-D6FA-453B-B59F-30AC6A62B7AA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\authsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F430B97F-D6FA-453B-B59F-30AC6A62B7AA}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\servicelayer\\adminsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F430B97F-D6FA-453B-B59F-30AC6A62B7AA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\adminsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9B8AF9-AD36-4256-8F7C-28504A35B747}|Model\\Model.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\model\\updatetheaterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9B8AF9-AD36-4256-8F7C-28504A35B747}|Model\\Model.csproj|solutionrelative:model\\updatetheaterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F430B97F-D6FA-453B-B59F-30AC6A62B7AA}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\servicelayer\\interface\\iadminsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F430B97F-D6FA-453B-B59F-30AC6A62B7AA}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interface\\iadminsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\bookmyshowapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|solutionrelative:bookmyshowapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\bookmyshowapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F971C5C-ADD0-4198-89C8-BAE43216D317}|BookMyShowApplication\\BookMyShowApplication.csproj|solutionrelative:bookmyshowapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9524F880-ABCC-483E-8E35-0571E1BEA904}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\navee\\desktop\\bookmyshow\\bookmyshow .net ef\\bookmyshowapplication\\dataaccesslayer\\interface\\iadminrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9524F880-ABCC-483E-8E35-0571E1BEA904}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interface\\iadminrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookMyShowApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookMyShowApplication\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:51.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminRL.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\DataAccessLayer\\AdminRL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdminRL.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\DataAccessLayer\\AdminRL.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdminRL.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "BookMyShowApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\appsettings.json",
+              "RelativeToolTip": "BookMyShowApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T06:22:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminSL.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\ServiceLayer\\AdminSL.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\AdminSL.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\ServiceLayer\\AdminSL.cs",
+              "RelativeToolTip": "ServiceLayer\\AdminSL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:52.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminRL.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\DataAccessLayer\\Interface\\IAdminRL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interface\\IAdminRL.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\DataAccessLayer\\Interface\\IAdminRL.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interface\\IAdminRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:52.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAdminSL.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\ServiceLayer\\Interface\\IAdminSL.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interface\\IAdminSL.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\ServiceLayer\\Interface\\IAdminSL.cs",
+              "RelativeToolTip": "ServiceLayer\\Interface\\IAdminSL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTheaterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\Model\\UpdateTheaterRequest.cs",
+              "RelativeDocumentMoniker": "Model\\UpdateTheaterRequest.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\Model\\UpdateTheaterRequest.cs",
+              "RelativeToolTip": "Model\\UpdateTheaterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:52.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BookMyShowApplication\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BookMyShowApplication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:52.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthSL.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\ServiceLayer\\AuthSL.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\AuthSL.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\ServiceLayer\\AuthSL.cs",
+              "RelativeToolTip": "ServiceLayer\\AuthSL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:51.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookMyShowApplication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\navee\\Desktop\\BookMyShow\\BookMyShow .Net EF\\BookMyShowApplication\\BookMyShowApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookMyShowApplication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:22:51.944Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

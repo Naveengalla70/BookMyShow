@@ -1,0 +1,15 @@
+.container-fluid {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.body1 {
+  width: 60%;
+  height: 100%;
+}
+
+.body2 {
+  width: 40%;
+  height: 100%;
+}

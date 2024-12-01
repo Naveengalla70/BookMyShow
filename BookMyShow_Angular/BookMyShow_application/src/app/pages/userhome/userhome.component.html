@@ -1,0 +1,112 @@
+<!-- <button class="btn btn-primary tour-location" (click)="handleBookTour()">
+  Add Place
+</button> -->
+<div class="tour-location">
+  <form class="d-flex">
+    <div class="mb-5 d-flex me-5">
+      <select class="form-control" id="category">
+        <option value=""></option>
+        <option value="HORROR">Horror</option>
+        <option value="ACTION">Action</option>
+        <option value="THRILLER">Thriller</option>
+        <option value="DRAMA">Drama</option>
+        <option value="SCIENCE">Science</option>
+        <option value="CRIME">Crime</option>
+        <option value="WESTERN">Western</option>
+        <option value="ROMANCE">Romance</option>
+        <option value="ANIMATION">Animation</option>
+      </select>
+      <button class="btn btn-primary w-50 mx-2" (click)="handleCategorySearch()">
+        Search
+      </button>
+      <button class="btn btn-light w-50" (click)="handleSearchClear()">
+        Clear
+      </button>
+    </div>
+    <div class="mb-5 d-flex float-right">
+      <input
+        type="text"
+        class="form-control"
+        style="width: 200px"
+        id="keyword"
+        name="keyword"
+      />
+      <button class="btn btn-primary w-50 mx-2" (click)="handleSearch()">
+        Search
+      </button>
+      <button class="btn btn-light w-50" (click)="handleSearchClear()">
+        Clear
+      </button>
+    </div>
+  </form>
+</div>
+
+<div class="px-3 d-flex flex-wrap" style="margin-top: 80px">
+  <ng-container *ngFor="let item of List">
+    <div class="card m-2" style="width: 18rem">
+      <img class="card-img-top" [src]="item.posterURL" alt="Card image cap" />
+      <div class="card-body">
+        <h5 class="card-title">{{ item.movieName }}</h5>
+        <p class="card-text">
+          {{ item.movieDescription }}
+        </p>
+        <p class="card-text">
+          PRICE : {{ item.price }}&nbsp;&nbsp;[&nbsp;{{ item.category }}&nbsp;]
+        </p>
+        <div class="mb-3">
+          SRC NO :
+          <div class="d-inline text-primary">{{ item.screenNumber }}</div>
+          &nbsp;&nbsp;&nbsp;&nbsp;TIME :
+          <div class="d-inline text-primary">{{ item.time }}</div>
+        </div>
+        <button
+          type="submit"
+          class="btn btn-primary"
+          (click)="handleBookTicket(item.id)"
+        >
+          Book
+        </button>
+      </div>
+    </div>
+  </ng-container>
+
+  <!-- <table class="table">
+    <thead>
+      <tr>
+        <th>PlaceName</th>
+        <th>Place Category</th>
+        <th>Place Description</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of placeList">
+        <td>{{ item.placeName }}</td>
+        <td>{{ item.placeCategory }}</td>
+        <td>{{ item.placeDescription }}</td>
+        <td>
+          <button
+            class="btn btn-outline-dark"
+            [disabled]="item.userID !== userID"
+            (click)="handleEditPlace(item)"
+          >
+            Edit
+          </button>
+          <button
+            class="btn btn-outline-danger mx-2"
+            [disabled]="item.userID !== userID"
+            (click)="handleDeletePlace(item.id)"
+          >
+            Delete
+          </button>
+          <button
+            class="btn btn-outline-primary"
+            (click)="handleAddExperience(item)"
+          >
+            Add Experience
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table> -->
+</div>

@@ -1,0 +1,113 @@
+<div class="container-fluid d-flex flex-column">
+  <div class="bg-light p-5" style="height: fit-content; width: 100%">
+    <form>
+      <div class="d-inline">
+        Movie Name :
+        <div id="movieName" class="d-inline text-primary">{{ MovieName }}</div>
+      </div>
+      <div class="w-100 d-flex">
+        <div class="mb-3 pt-5 w-25">
+          <label for="comment" class="form-label">Comment</label>
+          <input type="text" class="form-control" id="comment" name="comment" />
+          <div
+            id="commentHelp"
+            class="form-text text-danger"
+            style="display: none"
+          >
+            Please Enter Comment
+          </div>
+        </div>
+        <div class="mb-3 pt-5 mx-2">
+          <label for="rating" class="form-label">Rating</label>
+          <input type="number" class="form-control" id="rating" name="rating" />
+          <div
+            id="ratingHelp"
+            class="form-text text-danger"
+            style="display: none"
+          >
+            Please Enter Rating
+          </div>
+        </div>
+        <div class="mb-3 pt-5 mx-2">
+          <label for="status" class="form-label">Status</label>
+          <input
+            type="text"
+            class="form-control"
+            id="status"
+            name="status"
+            disabled
+          />
+          <div
+            id="commentHelp"
+            class="form-text text-danger"
+            style="display: none"
+          >
+            Please Enter Rating
+          </div>
+        </div>
+        <div class="mb-3 pt-5 mx-2">
+          <label for="rating" class="form-label"></label>
+          <button
+            class="btn btn-primary mt-4 mx-5 likeButton"
+            id="white"
+            (click)="handleStatus(true)"
+          >
+            <i class="fa fa-thumbs-up fa-lg" aria-hidden="true"></i>
+          </button>
+          <button
+            class="btn mt-4 btn-danger unlikeButton"
+            id="white"
+            (click)="handleStatus(false)"
+          >
+            <i class="fa fa-thumbs-down fa-lg" aria-hidden="true"></i>
+          </button>
+        </div>
+        <div class="mb-3 pt-5 mx-2">
+          <button
+            class="btn btn-primary mt-4 mx-5 text-white"
+            (click)="handleSubmit()"
+          >
+            Submit
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Movie Name</th>
+        <th>User</th>
+        <th>Comment</th>
+        <th>Rating</th>
+        <th>Status</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of List">
+        <td>{{ item.movieName }}</td>
+        <td>{{ item.email }}</td>
+        <td>{{ item.comment }}</td>
+        <td>{{ item.rating }}</td>
+        <td>{{ item.like === null ? "" : item.like ? "LIKE" : "DISLIKE" }}</td>
+        <td>
+          <button
+            [style]="UserID !== item.userId ? 'display:none' : ''"
+            class="btn btn-outline-dark ms-2 text-dark"
+            (click)="handleEditComment(item)"
+          >
+            Edit
+          </button>
+          <button
+            [style]="UserID !== item.userId ? 'display:none' : ''"
+            class="btn btn-outline-danger ms-2 text-danger"
+            (click)="handleDeleteComment(item.id)"
+          >
+            Delete
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

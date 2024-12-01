@@ -1,0 +1,10 @@
+.container-fluid{
+    margin: 100px 0px 50px;
+    box-sizing: border-box;
+}
+
+.tour-location{
+    position: absolute;
+    top: 80px;
+    right: 100px;
+}

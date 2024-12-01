@@ -1,0 +1,22 @@
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\bin\Debug\net6.0\Model.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\Model.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\bin\Debug\net6.0\Model.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\Model.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\Model\obj\Debug\net6.0\ref\Model.dll

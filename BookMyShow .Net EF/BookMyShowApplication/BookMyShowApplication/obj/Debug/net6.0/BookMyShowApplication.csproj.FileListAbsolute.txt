@@ -1,0 +1,142 @@
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.exe
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.deps.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Model.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Model.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookMyShowApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookMyShowApplication.props
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookMyShowApplication.props
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookMyShowApplication.props
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\scopedcss\bundle\BookMyShowApplication.styles.css
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\refint\BookMyShowApplication.dll
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.pdb
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\BookMyShow\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\ref\BookMyShowApplication.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.exe
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.deps.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.runtimeconfig.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\BookMyShowApplication.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Model.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\Model.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.csproj.AssemblyReference.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.AssemblyInfoInputs.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.AssemblyInfo.cs
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.csproj.CoreCompileInputs.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.BookMyShowApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.BookMyShowApplication.props
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookMyShowApplication.props
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookMyShowApplication.props
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\scopedcss\bundle\BookMyShowApplication.styles.css
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMySh.05D2CEAC.Up2Date
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\refint\BookMyShowApplication.dll
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.pdb
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\BookMyShowApplication.genruntimeconfig.cache
+C:\Users\navee\Desktop\BookMyShow\BookMyShow .Net EF\BookMyShowApplication\BookMyShowApplication\obj\Debug\net6.0\ref\BookMyShowApplication.dll
